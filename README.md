@@ -1,4 +1,4 @@
-## Getting Started
+## A simple boilerplate code starter for NextJS with NextAuth, TailwindCss, Prisma and TypeScript
 
 
 #### Install dependencies
