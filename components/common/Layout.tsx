@@ -3,9 +3,7 @@ import { Inter } from '@next/font/google'
 import Header from './Header'
 import Footer from './Footer'
 
-const inter = Inter({ subsets: ['latin'] })
-
-export default function Home({ children }: any) {
+export default function Layout({ children }: any) {
   return (
     <>
       <Head>

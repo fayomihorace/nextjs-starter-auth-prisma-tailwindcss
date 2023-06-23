@@ -27,7 +27,7 @@ const Header = () => {
         </span>
       </Navbar.Brand>
       <div className="flex">
-        <Navbar.Toggle />
+        {/* <Navbar.Toggle />*/}
       </div>
       <Navbar.Collapse>
         <Navbar.Link href="#">

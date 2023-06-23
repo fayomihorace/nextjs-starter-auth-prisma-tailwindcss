@@ -8,6 +8,7 @@ pnpm install
 
 #### Setup prisma
 ```bash
+npx prisma generate
 pnpm prisma migrate dev
 npx prisma studio # In another terminal
 ```
